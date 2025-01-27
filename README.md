@@ -29,3 +29,28 @@ Before getting started, make sure you have the following installed:
 1. Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/anthocote19/Meteo-Project.git
+
+
+
+
+
+# Run the application
+=> Open index.html in your browser to launch the application.
+# Usage
+=> Type the name of a city in the search field.
+=> Click on "Search" to view the weather forecast for that city.
+=> The following information will be displayed:
+=> Current temperature
+=> Weather conditions (sunny, rainy, etc.)
+=> Wind speed
+=> Humidity
+=> Forecast for the next days
+# API Used
+The project uses the OpenWeatherMap API, a reliable source for weather data.
+
+# API Key
+You can sign up on OpenWeatherMap and get a free API key to test the project locally.
+
+# Create an account on OpenWeatherMap.
+=> Go to the "API Keys" section to generate a new API key.
+=> Replace the default API key in the code with yours.
